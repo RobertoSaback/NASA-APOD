@@ -51,9 +51,10 @@
 
 
 
+
 Here's why:<br>
-⚫ I Love astronomical photography and use to work with it in Atacama's Desert <br>
-⚫ The official NASA APOD webpage(https://apod.nasa.gov/apod/astropix.html) looks like too old (90's webpage style,old fashioned pages are cool don't missunderstand me) and just load 1 picture per day then the new version load 10 cards per refresh <br>
+⚫ As a professional astronomical photographer, I've spent many sleepless nights under the stars. The idea for this project came from a restless nightt in Atacama Desert. The galatic spectical was so jaw-dropping I knew I had to share my experience of the night sky, with the world. <br>
+⚫ The official NASA APOD webpage(https://apod.nasa.gov/apod/astropix.html) could use an update, (as cool as it would've looked in the 90's!) so I took the time to freshen up a few things. For example, the old site provided a one picture a day, whereas this new version provides 10 photos with each reload. <br>
 ⚫ The content is so cool that a favorites section became a must <br>
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
