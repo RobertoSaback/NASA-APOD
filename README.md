@@ -1,0 +1,103 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/roberto-saback-52632446/]
+
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="">
+    <img src="" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">NASA Astronomic Picture Of the Day</h3>
+
+  <p align="center">
+   A better version of the 90'NASA APOD webpage
+    <br />
+    <a href="https://github.com/RobertoSaback"><strong>Explore other projects »</strong></a>
+    <br />
+    <br />
+    <a href="">View Demo</a>
+    ·
+    <a href="https://github.com/robertosaback/NASA-APOD/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/robertosaback/NASA-APOD/issues">Request Feature</a>
+  </p>
+</p>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+    </li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Video Player][ <img src="" alt="Logo" width="80" height="80">]](https://example.com)
+
+There are already a lot of video players in the web, I know. But this idea came from create one by my own and add some features inside like my own logo, some singular design, my own costumized features. That resource takes a great place in a world where e-learning and online courses are getting more usual and  and homepages owners wants the most  sigunlar version  of their webpage. This is an open-source project then feel free to fork , copy , use it with commercial reasons or not.  If that project was util for you i would apreciate  if you  let a  start here.
+
+Here's why:
+⚫ I Love astronomical photography and use to work with it in Atacama's Desert
+⚫ The official NASA APOD webpage(https://apod.nasa.gov/apod/astropix.html) looks like too old (90's webpage style,old fashioned pages are cool don't missunderstand me) and just load 1 picture per day then the new version load 10 cards per refresh
+⚫ The content is so cool that a favorites section became a must
+
+A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
+### Built With
+
+⚫ Vanila Java Script 
+ 
+<!-- GETTING STARTED -->
+## Getting Started
+
+Just copy the source code and use it as you want. No misteries , no surprises. 
+If you want see this project running just click in <a href="">View Demo</a>
+... Enjoy ! 
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [https://getloaf.io/]
+* [https://api.nasa.gov/]
+* [https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY]
+* [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete]
+* [https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo]
+* [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Object/values]
+* [https://www.w3schools.com/js/js_json_parse.asp]
+* [https://www.w3schools.com/js/js_json_stringify.asp]
+* [https://www.w3schools.com/jsref/jsref_includes.asp]
+
+<!-- CONTACT -->
+## Contact
+
+Roberto Saback  - saback.arq@gmail.com
+
+Project Link: [----](https://github.com/robertosaback/repo_name)
+
