@@ -14,7 +14,7 @@
     <a href="https://github.com/RobertoSaback"><strong>Explore other projects »</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://robertosaback.github.io/NASA-APOD/">View Demo</a>
     ·
     <a href="https://github.com/robertosaback/NASA-APOD/issues">Report Bug</a>
     ·
@@ -67,7 +67,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ## Getting Started
 
 Just copy the source code and use it as you want. No misteries , no surprises. 
-If you want see this project running just click in <a href="">View Demo</a>
+If you want see this project running just click in <a href="https://robertosaback.github.io/NASA-APOD/">View Demo</a>
 ... Enjoy ! 
 
 <!-- LICENSE -->
