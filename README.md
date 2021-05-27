@@ -1,10 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/roberto-saback-52632446/]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -59,7 +52,7 @@
 
 There are already a lot of video players in the web, I know. But this idea came from create one by my own and add some features inside like my own logo, some singular design, my own costumized features. That resource takes a great place in a world where e-learning and online courses are getting more usual and  and homepages owners wants the most  sigunlar version  of their webpage. This is an open-source project then feel free to fork , copy , use it with commercial reasons or not.  If that project was util for you i would apreciate  if you  let a  start here.
 
-Here's why:
+Here's why:<br>
 ⚫ I Love astronomical photography and use to work with it in Atacama's Desert <br>
 ⚫ The official NASA APOD webpage(https://apod.nasa.gov/apod/astropix.html) looks like too old (90's webpage style,old fashioned pages are cool don't missunderstand me) and just load 1 picture per day then the new version load 10 cards per refresh <br>
 ⚫ The content is so cool that a favorites section became a must <br>
@@ -96,6 +89,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
+<a href="https://www.linkedin.com/in/roberto-saback-52632446/">LinkedIn</a>
 
 Roberto Saback  - saback.arq@gmail.com
 
