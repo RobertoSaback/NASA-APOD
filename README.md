@@ -9,7 +9,7 @@
   <h3 align="center">NASA Astronomic Picture Of the Day</h3>
 
   <p align="center">
-   A better version of the 90'NASA APOD webpage
+   A better version of the 90's NASA APOD webpage
     <br />
     <a href="https://github.com/RobertoSaback"><strong>Explore other projects »</strong></a>
     <br />
@@ -92,6 +92,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <a href="https://www.linkedin.com/in/roberto-saback-52632446/">LinkedIn</a>
 
 Roberto Saback  - saback.arq@gmail.com
-
-Project Link: [----](https://github.com/robertosaback/repo_name)
-
