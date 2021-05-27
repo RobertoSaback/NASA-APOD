@@ -49,7 +49,7 @@
 ## About The Project
 
 
-[![Product Name Screen Shot][https://github.com/RobertoSaback/NASA-APOD/blob/main/Screenshot.png]](https://example.com)
+[![NASA-APOD[NASA APOD](https://github.com/RobertoSaback/NASA-APOD/blob/main/Screenshot.png)
 
 
 Here's why:<br>
