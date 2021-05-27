@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="https://github.com/RobertoSaback/NASA-APOD/blob/main/NASA.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">NASA Astronomic Picture Of the Day</h3>
