@@ -48,7 +48,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![alt text](https://github.com/RobertoSaback/NASA-APOD/blob/main/screenshot.jpg?raw=true)
+
+[![Product Name Screen Shot][https://github.com/RobertoSaback/NASA-APOD/blob/main/Screenshot.png]](https://example.com)
 
 
 Here's why:<br>
