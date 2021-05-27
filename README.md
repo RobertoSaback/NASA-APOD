@@ -47,9 +47,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<img src="https://github.com/RobertoSaback/NASA-APOD/blob/main/Screenshot.png" alt="Screenshot" width="500" height="600">
 
-
-[![NASA-APOD[NASA APOD](https://github.com/RobertoSaback/NASA-APOD/blob/main/Screenshot.png)
 
 
 Here's why:<br>
