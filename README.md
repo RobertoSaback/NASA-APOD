@@ -48,9 +48,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Video Player][ <img src="" alt="Logo" width="80" height="80">]](https://example.com)
+[![NASA APOD][<img src="screenshot.jpg"  width="250" height="300">]](https://example.com)
 
-There are already a lot of video players in the web, I know. But this idea came from create one by my own and add some features inside like my own logo, some singular design, my own costumized features. That resource takes a great place in a world where e-learning and online courses are getting more usual and  and homepages owners wants the most  sigunlar version  of their webpage. This is an open-source project then feel free to fork , copy , use it with commercial reasons or not.  If that project was util for you i would apreciate  if you  let a  start here.
 
 Here's why:<br>
 ⚫ I Love astronomical photography and use to work with it in Atacama's Desert <br>
