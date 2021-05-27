@@ -48,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![NASA APOD][<img src="screenshot.jpg"  width="250" height="300">]](https://example.com)
+[![NASA APOD][<img src="screenshot.jpg"  width="500" height="600">]](https://example.com)
 
 
 Here's why:<br>
