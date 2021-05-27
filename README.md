@@ -47,7 +47,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src="https://github.com/RobertoSaback/NASA-APOD/blob/main/Screenshot.png" alt="Screenshot" width="1200" height="600">
+<img src="https://github.com/RobertoSaback/NASA-APOD/blob/main/NASAANIMATION.gif" alt="Screenshot" width="1200" height="600">
 
 
 
