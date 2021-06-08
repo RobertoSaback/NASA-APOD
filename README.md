@@ -53,7 +53,7 @@
 
 
 Here's why:<br>
-⚫ As a professional astronomical photographer, I've spent many sleepless nights under the stars. The idea for this project came from a restless nightt in Atacama Desert. The galatic spectical was so jaw-dropping I knew I had to share my experience of the night sky, with the world. <br>
+⚫ As a professional astronomical photographer, I've spent many sleepless nights under the stars. The idea for this project came from a restless night in Atacama Desert. The galatic spectical was so jaw-dropping I knew I had to share my experience of the night sky, with the world. <br>
 ⚫ The official NASA APOD webpage(https://apod.nasa.gov/apod/astropix.html) could use an update, (as cool as it would've looked in the 90's!) so I took the time to freshen up a few things. For example, the old site provided a one picture a day, whereas this new version provides 10 photos with each reload. <br>
 ⚫ The content is so cool that a favorites section became a must <br>
 
